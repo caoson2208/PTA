@@ -36,9 +36,12 @@ class Person:
         self.weight = weight
         self.height = height
 
+
+    
+
 person1 = Person("Cao Ngọc Sơn", 2, "Nam", 63, 173)
-print("Tên:", person1.name)
-print("Tuổi:", person1.age)
-print("Giới tính:", person1.sex)
-print("Cân năng:", person1.weight)
-print("Chiều cao:", person1.height)
+# print("Tên:", person1.name)
+# print("Tuổi:", person1.age)
+# print("Giới tính:", person1.sex)
+# print("Cân năng:", person1.weight)
+# print("Chiều cao:", person1.height)
